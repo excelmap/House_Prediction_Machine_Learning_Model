@@ -14,3 +14,13 @@ Key Statistics:
 LotArea ranges widely (from 1,300 to over 215,000), with high variability.
 YearBuilt and YearRemodAdd indicate most houses were built or remodeled between 1950 and 2010.
 SalePrice spans from 34,900 to 755,000, with a mean of about 180,921.
+
+Based on the analysis, we can draw conclusions and insights from the data. For instance:
+
+Properties with higher overall conditions tend to have higher sale prices.
+
+The distribution of sale prices may reveal the central tendency and spread.
+
+Trends in average sale price over the years provide insights into market changes.
+
+The type of building significantly affects the sale price.
